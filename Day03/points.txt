@@ -1,0 +1,40 @@
+List Comprehension
+------------------
+
+
+Dictionary
+----------
+it is also called as associative array
+
+ 0    1    2    3    4    5
+'a', 'b', 'c', 'd', 'e', 'f'
+
+associative arrays
+
+0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e', 5: 'f'
+
+0, 1, 2, 3, 4, 5  => called as keys
+
+'a', 'b', 'c', 'd', 'e', 'f' => called as values
+
+{'empid': EMP001, 'empname': 'Kevin', 'dept': 'HR', 'salary': 85000}
+
+
+1. keys are unique
+2. keys are user defined
+3. dictionaries are unordered
+4. They are mutable
+5. They are enclosed in {k1: v1, k2: v2, k3: v3......}
+
+
+functions to manipulate dictionaries
+------------------------------------
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+
+
+
+
+
+
