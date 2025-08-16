@@ -1,0 +1,173 @@
+OR
+--
+5 - 0101
+3 - 0011
+    ----
+    0111   = 4 + 2 + 1 = 7
+    ----
+
+AND
+---
+5 - 0101
+3 - 0011
+    ----
+    0001   = 1
+    ----
+
+XOR
+---
+1 ^ 1 = 0
+0 ^ 1 = 1
+1 ^ 0 = 1
+0 ^ 0 = 0
+
+5 - 0101
+3 - 0011
+    ----
+    0110 = 4 + 2 = 6
+    ----
+
+left shift - <<
+---------------
+5 << 1
+
+0101 << 1
+1010 => 8 + 2 = 10
+
+8 - 1000
+1000 << 1
+10000 => 2 ** 4 => 16
+
+5 << 2
+0101 << 2
+10100 => 20
+
+16 >> 1
+10000 >> 1
+1000 => 8
+
+5 >> 1
+0101 >> 1
+0010 = 2
+
+Control Structure and loops
+---------------------------
+
+control structures
+------------------
+1. if condition
+
+Loops
+-----
+1. for loop - initial_val, final_val, incr
+   same as foreach loop
+
+   range function
+   range(1, 10, 1)
+
+   a. continue
+   b. break
+   c. else
+
+2. while loop
+
+while (condition) => iterate until the condition is true
+
+print
+-----
+print(data, sep=, end="\n")
+
+Exercise
+--------
+print the pattern
+
+a.
+
+1
+23
+456
+78910
+
+b.
+
+1 2 3 4 5
+ 1 2 3 4
+  1 2 3
+   1 2
+    1
+   2 1
+  3 2 1
+ 4 3 2 1
+5 4 3 2 1
+
+2. print all prime numbers between 150 and 50, also print the count of prime numbers between them
+
+
+Strings
+-------
+STRINGS ARE IMMUTABLE
+
+
+Data Structures
+---------------
+1. List
+2. Dictionary
+3. Tuple
+4. Set
+
+Lists are similar to arrays
+
+What are arrays?
+
+1. collection of homogenous data
+2. Memory allocation is contagious
+3. array - array size is fixed 
+
+
+1. Lists are collection of heterogenous data
+2. Memory allocation is not contagious
+3. array size is fixed after creation
+4. ordered collection
+5. it can be subscripted (indexed)
+6. lists are enclosed in [ ]
+
+
+functions to Manipulate List
+----------------------------
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+add new values
+---------------
+1. append - append will add one element to end of the list 
+
+2. extend - can add more than one value into the list (arg should be a list)
+
+3. insert - add elements into the list to a specific location
+
+
+remove values from the list
+---------------------------
+1. remove  - remove the value from the list
+2. pop     - removes the value based on the index provided
+3. clear   - removes all the elements and returns an empty list
+
+
+
+count  - to count how many times a value is repeated
+index  - to get the index of a particular value
+copy   - to deep copy a list into another list
+sort   - sort the list
+reverse - reverse the list
+
+
+https://pythontutor.com/visualize.html#mode=edit
+
+
+
+
+
+
+
+
+
+
