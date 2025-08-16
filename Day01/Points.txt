@@ -1,0 +1,275 @@
+Python
+------
+
+Guido Van Russum
+----------------
+
+version - 2.x and 3.x
+----------------------
+
+3.13.x   
+------
+Threads in python - GIL - Global Interpreter Lock
+
+Multi Threading
+---------------  
+
+Numpy and Pandas
+----------------
+Numerical Python - mathematics - vectors
+
+
+Installation
+------------
+python - 3.12 (www.python.org)
+
+PyCharm CE - (https://www.jetbrains.com/pycharm/download/?section=windows)
+
+(https://pycharm-community-edition.en.softonic.com/)
+
+C:\Users\Kiran\AppData\Local\Programs\Python\Python312
+
+C:\Users\Kiran\AppData\Local\Programs\Python\Python312
+
+Pandas
+------
+data import
+data cleansing
+optimising data
+push it to Data analytics tools - Matplotlib, seaborn, Power BI, Tableau
+
+
+ML, AI, Data Engineering 
+------------------------
+multi threading, multi processing, concurrent processing, parallel programming
+
+
+Docker, Jenkins, Kubernetes
+---------------------------
+
+
+CICD
+-----
+Continuous Integration Continuous Development
+
+---------------------------------------------------------------------------
+
+1. Python
+
+2. API (REST API) - Flask, Django, FASTAPI
+
+3. Containerization (Docker)
+
+4. CICD
+
+
+Google cloud, Azure, AWS
+
+
+PERL - Practical Extraction and Reporting Language
+
+Larry Wall
+----------
+
+
+Python - Open Source  - source code is free
+--------------------
+
+1. Desktop Application 	->	GUI - Tinker (TK)
+
+2. Web Application 	->	MVC (Model View Controller), REST Api
+  				Flask, Django, FastApi, Pyramid
+
+3. Mobile 		->	Kivy
+
+4. Testing		->	Unit Test, Pytest, Selenium, Robot 					Framework
+
+5. Automation		->	File Automation (Excel file) openpyxl, 					Networking - Paramiko
+
+6. Web Scrapping	->	Beautiful Soup, requests, Regular 					Expression
+
+7. Data Science		-> 	Numpy, Pandas, Matplotlib, Seaborn
+
+8. Machine Learning	->	Regression, supervised, unsupervised
+
+9. Artificial Intelligence ->
+
+10. Deep Learning	->
+
+11. Generative AI, Agentic AI
+
+12. Copilot
+
+
+
+def add(x, y):
+   return x + y
+
+
+def sum(*a):
+   b = 0
+   for number in a:
+	b += a
+   return b
+
+
+Groovy  (Scripting on Java environment)
+------
+
+Ruby
+----
+
+
+Python 
+------
+Java, Dotnet
+
+syntax simple
+
+Library
+
+Flavours of python
+------------------
+Cpython - currently working
+
+Jython  - Python code uses JVM
+
+Iron Python - Python code executed in dotnet environment
+
+Python
+------
+1. SDK
+2. Shell
+3. IDLE - Integrated Development Environment (Editor)
+
+Two operators overloaded
+-------------------------
++ - addition and concatenation
+
+* - multiplication and to print a string n number of times
+
+
+Primary Data types in python
+----------------------------
+1. Number
+  a. integer
+  b. float
+  c. long (deprecated in 3.x, but its property still exists)
+	923402938423840239482398094753487534857L
+  d. complex
+2. String
+3. Boolean
+
+IDE
+-----------------------------------------------------------------------
+1. PyCharm CE (open source)
+2. VS code CE
+3. Eclipse (addons)
+4. sublime text
+
+Anaconda ML, AI, Data Engineering
+--------
+Jupyter Notebook
+spyder 
+
+Google colabs
+
+--------------------------------------------------------------------
+#! c:\python\bin
+
+print("Hello World")
+--------------------------------------------------------------------
+
+from importlib import reload
+
+---------------------------------------------------------------------
+
+#! - shebang - gives the path of python executables (python.exe)
+
+print('Hello World')
+
+there is no difference between ' '  and " ". both have the same meaning
+
+
+comments
+--------
+comments are added with #  - single line comment
+
+
+in python strings are enclosed in ' ' or " "
+
+'this is a string'
+"this is a string"
+
+
+docstrings are written on top of functions to specify the what is the functionality of that function
+
+or multiple line strings are entered by using
+
+'''  '''
+or 
+"""  """
+
+"""
+this is the first line.
+this is the second line.
+this is the third line.
+"""
+
+we don't use parenthesis instead we use indentation for 
+
+a. if conditions
+b. loops
+c. functions
+d. classes
+
+
+Primary Data types
+------------------
+1. Numbers
+
+
+Binary value
+------------
+0b11 => 1 * 2 ** 1 + 1 * 2 ** 0
+     => 1 * 2 + 1 * 1
+     => 2 + 1 = 3
+
+101  => 1 * 2 ** 2 + 0 + 1
+     => 4 + 1
+     => 5
+
+Octal (base 8)
+--------------
+0o11 => 1 * 8 ** 1 + 1
+     => 8 + 1
+     => 9
+
+
+Operators
+---------
+1. arithmetic operators
+2. augmentor
+3. logical 
+4. Boolean 
+5. bitwise
+6. ternary
+7. comparison or relational
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
